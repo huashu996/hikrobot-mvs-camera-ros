@@ -1,0 +1,19 @@
+# true 1 和 false 0 
+width: 1280             #图像宽度
+height: 1024            #图像高度
+Offset_x: 0             #X方向偏置
+Offset_y: 0             #Y方向偏置
+
+FrameRateEnable: true   #使能 
+FrameRate: 20           #帧率
+
+ExposureAuto: true
+Brightness: 80
+
+GammaEnable: true
+Gamma: 0.8          #伽马因子
+
+
+SaturationEnable: true
+Saturation: 140          #饱和度
+
